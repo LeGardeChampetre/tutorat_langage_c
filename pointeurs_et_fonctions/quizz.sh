@@ -2,13 +2,9 @@
 
 # Quiz interactif de compréhension du C
 # Chapitre 1 : fonctions et pointeurs
-#
-# Ce script n'effectue aucune compilation : les résultats affichés sont
-# connus à l'avance. Il sert de support de prédiction et de discussion.
 
 set -u
 
-# --- Palette ANSI (sobre, style Markdown) ---
 if [[ -t 1 ]]; then
     RESET=$'\033[0m'
     BOLD=$'\033[1m'

@@ -1,0 +1,4 @@
+Cette commande compile le fichier <nom_du_fichier> avec toutes les options de sécurité  et créer l'éxecutable
+
+gcc -std=c11 -Wall -Wextra -Wpedantic -g <nom_du_fichier>.c -o <nom_du_fichier>
+./<nom_du_fichier>
