@@ -1,4 +1,4 @@
-// Exercice 4 — Une mesure oubliée
+// Exercice 4 — Une mesure oubliée -- BUG
 
 #include <stdio.h>
 

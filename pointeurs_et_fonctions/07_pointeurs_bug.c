@@ -1,4 +1,4 @@
-// Exercice 7 — Deux pointeurs, une seule variable ?
+// Exercice 7 — Deux pointeurs, une seule variable ? -- BUG
 
 #include <stdio.h>
 

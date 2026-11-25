@@ -1,4 +1,4 @@
-// Exercice 2 — Pourquoi ma fonction ne change-t-elle rien ?
+// Exercice 2 — Pourquoi ma fonction ne change-t-elle rien ? -- BUG
 
 #include <stdio.h>
 
